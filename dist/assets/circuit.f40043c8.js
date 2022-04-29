@@ -1,0 +1,1 @@
+import{s as e}from"./index.ac7bf4b1.js";function r(t){return e({url:"qt/gateway/list",method:"get",params:t})}function u(t){return e({url:"qt/gateway/add",method:"post",data:t})}function d(t){return e({url:"qt/gateway/update",method:"post",data:t})}function o(t){return e({url:"qt/gateway/delete",method:"delete",params:t})}export{u as c,o as d,r as g,d as u};

@@ -1,0 +1,1 @@
+import{s as t}from"./index.ac7bf4b1.js";function d(e){return t({url:"qt/dept/tree",method:"get",params:e})}function u(e){return t({url:"qt/dept/add",method:"post",data:e})}function o(e){return t({url:"qt/dept/update",method:"post",data:e})}function n(e){return t({url:"qt/dept/delete",method:"delete",params:e})}export{u as c,n as d,d as g,o as u};
